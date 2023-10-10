@@ -13,7 +13,7 @@ Suspecting it might be a cervical disc issue, I searched for related information
 {% include figure image_path="/assets/images/2023-10-10/areas-of-pain.png" alt="" caption="Cervical disc pain area" %}
 
 # Treatment
-Although I was recommended surgery due to paralysis in one arm, fortunately, I saw improvement in the paralysis and opted out of the surgery. It was also too late to receive steroid injections to alleviate pain, so I underwent conservative treatment. I heavily referred to Professor Jung Seon-geun's YouTube channel and books for conservative treatments. To summarize, the most crucial aspect was living without bending the neck:
+Although I was recommended surgery due to paralysis in one arm, fortunately, I saw improvement in the paralysis and opted out of the surgery. It was also too late to receive steroid injections to alleviate pain, so I underwent conservative treatment. I heavily referred to Professor [Chung Sun-gun](http://www.snuh.org/global/en/blog/00964/paper.do)'s YouTube channel and books for conservative treatments. To summarize, the most crucial aspect was living without bending the neck:
 
 - When using a laptop, place it on a higher surface and use a separate keyboard and mouse.
 - If using a monitor, place it at a higher position to look up.

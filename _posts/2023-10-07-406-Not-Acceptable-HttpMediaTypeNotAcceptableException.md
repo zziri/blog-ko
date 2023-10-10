@@ -6,7 +6,7 @@ While working on a project based on Spring Boot, I encountered a 406 Not Accepta
 
 I didn't do anything special, so why did I get a 406 error in the response?
 
-{% raw %}![alt](https://raw.githubusercontent.com/zziri/zziri.github.io/main/assets/images/2023-10-07/img1.png){% endraw %}
+{% include figure image_path="/assets/images/2023-10-07/img1.png" alt="" caption="" %}
 It's a regular request, but it's responding with a 406 error.
 
 To see the contents of the error, I created an ExceptionHandler and called the ex.printStackTrace() method.
@@ -59,7 +59,7 @@ public class ResponseDto <T> {
 }
 ```
 
-{% raw %}![alt](https://raw.githubusercontent.com/zziri/zziri.github.io/main/assets/images/2023-10-07/img2.png){% endraw %}
+{% include figure image_path="/assets/images/2023-10-07/img2.png" alt="" caption="" %}
 
 Now it's responding properly.
 
