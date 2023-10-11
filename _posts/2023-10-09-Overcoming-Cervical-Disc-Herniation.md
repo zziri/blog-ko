@@ -1,5 +1,7 @@
 ---
 title: "Overcoming Cervical Disc Herniation"
+categories:
+  - LIFE
 ---
 
 I am a sufferer of cervical disc herniation and just an average office worker in my 30s without any professional medical knowledge. This post is not to convey professional knowledge or accurate information but to share my experience.
